@@ -1,0 +1,3 @@
+l=set(map(int,input().split(" ")))
+print("max=",max(l))
+print("min=",min(l))
